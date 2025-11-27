@@ -1,13 +1,10 @@
-
-
-```markdown
-🧮 Método de Newton-Raphson
+# 🧮 Método de Newton-Raphson
 
 Implementação em Python do **Método de Newton-Raphson** para encontrar raízes de funções não lineares.
 
 Este projeto foi desenvolvido para a disciplina de **Métodos Numéricos e Computacionais**, com foco em modularização, visualização gráfica e interface web.
 
-🚀 Funcionalidades
+## 🚀 Funcionalidades
 
 - **Interface Web (Streamlit):** Painel interativo moderno que roda no navegador.
 - **Cálculo Automático de Derivadas:** Usa a biblioteca **SymPy** para calcular $f'(x)$ automaticamente.
@@ -15,7 +12,7 @@ Este projeto foi desenvolvido para a disciplina de **Métodos Numéricos e Compu
 - **Tabela Detalhada:** Histórico passo a passo das iterações e erro estimado.
 - **Modo Terminal:** Versão robusta para execução via linha de comando (`main.py`).
 
-🛠️ Tecnologias
+## 🛠️ Tecnologias
 
 - **Python 3**
 - **Streamlit** (Interface Gráfica)
@@ -23,7 +20,7 @@ Este projeto foi desenvolvido para a disciplina de **Métodos Numéricos e Compu
 - **Matplotlib** (Gráficos)
 - **NumPy** (Cálculos Numéricos)
 
-📦 Instalação
+## 📦 Instalação
 
 Certifique-se de ter o Python 3 instalado.
 
@@ -31,7 +28,6 @@ Certifique-se de ter o Python 3 instalado.
    ```bash
    git clone https://github.com/SEU-USUARIO/NOME-DO-REPO.git
    cd NOME-DO-REPO
-   ```
 
 2. **Instale as dependências:**
    ```bash
